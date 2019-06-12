@@ -1,0 +1,59 @@
+.nav_qq{
+	width: 100%;
+    background-color: rgb(102,102,102);
+}
+
+.nav_center{
+	width: 80%;
+	margin: 0 auto;
+}
+nav{
+	display: inline-block;
+	line-height: 55px;
+	vertical-align: top;
+	color: #fff;
+	margin-top: 15px;
+
+}
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: medium;
+}
+a:hover{
+	color: #000000;
+}
+
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+	height: 30px;
+	width: 90px;
+}
+.nav_login{
+	width: 80px;
+	height: 40px;
+	color: #fad65c;
+	border: 1px solid #fad65c;
+	background: none;
+	font-size: 15px;
+}
+button{
+	border-radius: 20px;
+	cursor: pointer;
+}
+.nav_svip{
+	width: 120px;
+	height: 40px;
+	color: brown;
+	border: 2px solid #fad65c;
+	background: #fad65c;
+	font-size: 15px;
+}
+.nav_button{
+    float: right;
+	margin-top: 40px;
+	margin-right: 50px;
+}
